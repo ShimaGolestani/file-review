@@ -1,0 +1,84 @@
+{
+    "symbols": [
+        {
+            "id": 1,
+            "title": "شپنتا",
+            "count": 3,
+            "last_price": 35000,
+            "final_price": 55000,
+            "current_price": 55000
+        },
+        {
+            "id": 2,
+            "title": "وهامون",
+            "count": 3,
+            "last_price": 35000,
+            "final_price": 55000,
+            "current_price": 55000
+        },
+        {
+            "id": 3,
+            "title": "توسن",
+            "count": 3,
+            "last_price": 35000,
+            "final_price": 55000,
+            "current_price": 55000
+        },
+        {
+            "id": 4,
+            "title": "مدیریت",
+            "count": 3,
+            "last_price": 35000,
+            "final_price": 55000,
+            "current_price": 55000
+        },
+        {
+            "id": 5,
+            "title": "خساپا",
+            "count": 3,
+            "last_price": 35000,
+            "final_price": 55000,
+            "current_price": 55000
+        },
+        {
+            "id": 6,
+            "title": "کدنا",
+            "count": 3,
+            "last_price": 35000,
+            "final_price": 55000,
+            "current_price": 55000
+        },
+        {
+            "id": 7,
+            "title": "خزر",
+            "count": 3,
+            "last_price": 35000,
+            "final_price": 55000,
+            "current_price": 55000
+        },
+        {
+            "id": 8,
+            "title": "دی",
+            "count": 3,
+            "last_price": 35000,
+            "final_price": 55000,
+            "current_price": 55000
+        },
+        {
+            "id": 9,
+            "title": "آینده",
+            "count": 3,
+            "last_price": 35000,
+            "final_price": 55000,
+            "current_price": 55000
+        },
+        {
+            "id": 10,
+            "title": "آریان",
+            "count": 3,
+            "last_price": 35000,
+            "final_price": 55000,
+            "current_price": 55000
+        }
+    ]
+}

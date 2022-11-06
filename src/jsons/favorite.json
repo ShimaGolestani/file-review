@@ -1,0 +1,12 @@
+{
+    "favorites": [
+        {
+            "id": 1,
+            "title": "شپنتا",
+            "count": 3,
+            "last_price": 35000,
+            "final_price": 55000,
+            "current_price": 55000
+        }
+    ]
+}
